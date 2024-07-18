@@ -13,7 +13,3 @@ if hist_button: # al hacer clic en el botón
 
     # Mostrar el gráfico Plotly
     st.plotly_chart(fig, use_container_width=True)
-
-
-    # Mostrar el gráfico Plotly
-    st.plotly_chart(fig, use_container_width=True)
